@@ -198,4 +198,4 @@ Student.prototype.scopeArrow = () => console.log(this);
 // 2. What is "this" when joe.scopeArrow() is invoked?
 // it is the windows
 // 3. Explain why "this" is different when an arrow function is used.
-// I think because f I use this to constructer using arrow function it will work globally so using arrow funciton is invalid
+// I think because if I use this to constructer using arrow function it will work globally so using arrow funciton is invalid
